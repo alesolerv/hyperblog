@@ -8,3 +8,4 @@ Por ejemplo:
 - Herramientas
 - Frujo de trabajo
 esto fue creado por el increible INGENIERO ALE SOLER
+incluye ejemplo ejemplo en w7
