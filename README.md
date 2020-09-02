@@ -7,3 +7,4 @@ Por ejemplo:
 - Trucos
 - Herramientas
 - Frujo de trabajo
+esto fue creado por el increible INGENIERO ALE SOLER
